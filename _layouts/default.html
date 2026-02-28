@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} &middot; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncatewords: 30 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <span class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/now/' | relative_url }}">Now</a>
+      </span>
+    </nav>
+
+    {{ content }}
+
+    <footer>
+      <p>Written by {{ site.author }} &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+    </footer>
+  </div>
+</body>
+</html>

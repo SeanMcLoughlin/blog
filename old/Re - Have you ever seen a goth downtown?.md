@@ -1,0 +1,25 @@
+---
+title: Re - Have you ever seen a goth downtown
+subtitle: 
+date: 2025-02-18
+tags:
+  - blog/post
+source: https://seanmcloughl.in/re-have-you-ever-seen-a-goth-downtown/
+---
+I read [this](https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown) article this morning. It discusses how while many people see cities as enabling a large amount of different cultures, they actually have quite a constrained Overton Window of culture where people are expected to conform to some sub-group. For example, punk is for normies now, and the only thing deciding the fashion statements you make in what you wear is the money you throw at Balenciaga as opposed to your own fashion sense.
+
+I think that this argument is mostly correct. It has to do with the fact that cities have large cohorts of young individuals who want to create their own identity, but they are inexperienced and unconfident, so they end up pigeonholing into already-existing cultures that claim that they're avant-garde or counter-culture or whatever. 
+
+However, the article also makes the claim that smaller towns, suburbs, or less well-known places are actually more culturally diverse than cities in that they don't constrain the cultural Overton window in all dimensions. They constrain them harder in certain dimensions, but there are areas that truly unique counter-cultures are capable of breaking out of. They claim that goths are almost always seen in suburbia as opposed to cities as an anecdote for their claim.
+
+I don't think I agree with this claim, and I definitely don't agree with the anecdote about goths. Statistically speaking, you're far more likely to see goths in cities as opposed to suburbia simply because you *see* orders of magnitude more people in cities compared to suburbia due to cities having a higher population density, paired with more frequent in-person encounters in places like parks, walking on the street, or on public transit. 
+
+I don't think that the author is referring to small towns like stoplight towns in the middle of nowhere. I think they're referring to cities that are not as well-known and without large populations of young people, like Cincinnati OH or Billings MN. I think that there are far more variables at play that the author isn't considering.
+
+I don't see most of the people who enter "normie counterculture" cultures as trailblazers. I also don't think they see themselves as trailblazers. They're not *looking* to create something unique or new. Even if they had the confidence to do so, they don't have the inspiration or will to try that new look, that new sound, that new taste. While cities may be considered the melting pot of cultures and ideas that push the zeitgeist forward, they're also overwhelmingly full of free-riders – people who want to go to cultural Disneyland, but not put forth any effort to push a cultural idea forward. 
+
+If I am to give some credence to the author's opinion here, it would be that smaller cities don't have nearly as large of a free-rider problem as world cities like NYC or LA or whatever. This makes sense – no one who is looking for a cultural melting pot is going to move to Cincinnati. However, creatives who find themselves in a place like Cincinnati are *not* going to be free-riders, and are actually going to be interested in pushing creative ideas forward. 
+
+Cultural free riders can't be the only piece of the puzzle, though. The author talks about bands that play in Montreal and Toronto having similar sounds, but no-name bands from no-name towns create unique sounds that break the mold. These bands aren't free-riders – they're actively contributing to culture by making art. So why do the top-tier bands ossify into a sound while the no-name bands don't? Well, I think the answer is in the classification I just provided to these two types of bands. The bands playing for big audiences in big cities already have a name for themselves. Their audiences expect a certain sound, so it's in their best interest to ossify. The no-name bands are searching for a sound that makes them unique, and they haven't hit it big yet. This isn't a novel idea. The music industry constantly looks for new up-and-comers because their sound is unique and intriguing. Then, if a band makes it big, they end up producing the same stuff until their career is over. If you're touring in big cities, you've already made a name for yourself – you're not avant garde.
+
+I'm out of my allotted writing time for the day, but my overarching thought is that there are many possible answers to this problem other than "large cities constrain culture to an point, while smaller cities push certain cultural dimensions." There are dozens of different lenses you can use to find possible answers to this question – identity politics, financial incentives, biases towards already-existing culture, and surely the internet as a medium to proliferate ideas outside of physical cities plays a big role, too. 

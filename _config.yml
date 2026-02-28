@@ -1,0 +1,24 @@
+title: Myopia to Clarity
+tagline: Know thyself
+description: A blog for deciphering fuzzy thoughts. Written by Sean McLoughlin.
+url: "https://seanmcloughl.in"
+baseurl: ""
+author: Sean McLoughlin
+
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  footnote_backlink: "&#8617;"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - old/
+  - .DS_Store

@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Political Violence as a Prisoner's Dilemma"
+date: 2024-12-06
+---
+# Outline
+
+- Belief: The world would be on a better timeline if Trump had successfully been assassinated during the 2024 presidential campaign.
+	- I do not think that him being assassinated post-election would lead the world to a better timeline, as it would lead to JD Vance becoming president.
+- Belief: I think that the murder of the UHC CEO that happened several days ago was not justified, as the successful execution of the plot does not put the world onto a better timeline.
+	- The CEO will simply be replaced with another individual with the same beliefs and practices and UHC will continue denying coverage to their customers. Nothing will change.
+- It seems that one or more of the following are popular opinions among the population:
+	- Political violence is never justified
+	- Murder is morally wrong in all cases
+	- The outcomes of an assassination are not easily predictable and could lead to unknown, even worse outcomes
+- People get the idea in their head that "political violence is never justified" for several reasons:
+	- A belief of "treat others as you want to be treated" due to Judeo-Christian values of the Western world.
+	- A fear of political violence being normalized
+		- Not wanting to see people murdered
+		- More specifically, **not wanting to see the candidate that *I* support get murdered.**
+		- Not wanting themselves to be victims of violence due to their associations with a political institution
+	- A fear of retribution
+		- You'll get killed/put in prison/have to live in hiding for the rest of your life if you are found to be correlated with the assassination
+	- Never having experienced the democratic political process fail consistently
+		- The average voter in America is an utter moron. Democracy doesn't work with morons. If you are not a moron, having to compete politically with morons makes you think that the system does not work.
+		- Being a minority in any politically-relevant identity (almost always economic class, but occasionally race/gender) makes one jaded when democracy does not represent you. The tyranny of the majority.
+		- If you believe that those who lived in the USSR, the PRC, Franco's Spain, Pinochet's Chile, Nazi Germany, Fascist Italy, etc. are morally allowed to violently overthrow the systems in which they lived in, it is hypocritical to say that Americans in Trump's America cannot do the same.
+- The political sphere around a specific candidate/party/ideology can be thought of as an N-step prisoner's dilemma where the steps are a series of elections and voting blocs are the prisoners.
+	- Cooperation involves working within political systems in order to succeed, while defection involves working outside of political systems in order to succeed (political violence et. al.).
+- Belief: The statistically most successful strategy for an N-step prisoner's dilemma against irrational actors (blocs of "utter moron" voters are by definition irrational) is ["tit for tat with forgiveness"](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Axelrod's_tournament_and_successful_strategy_conditions).
+	- Relevant quote from the above link:
+		- "In contrast to the one-time prisoner's dilemma game, the optimal strategy in the iterated prisoner's dilemma depends upon the strategies of likely opponents, and how they will react to defections and cooperation."
+	- Because the other actor is not consistently rational, a Bayesian Nash Equilibrium strategy does not seem likely as a strategy to follow.
+	- Counterpoint: While *you* might be rational, you cannot assume that your own political bloc will be fully rational, either.
+- If this is the most likely strategy for your opponent to follow, you can assume that they will apply a tit to your tat (or they may even forgive you), but that due to the forgiveness mechanism, we will not devolve into endless defection.
+	- Counterpoint: *Why* is this the most likely strategy for your opponent to follow? Why are you modeling your opponent's response like this as opposed to some stochastic process? This sounds like a vibe where you think that the other side is stupid and won't retaliate in any coordinated fashion.
+- Therefore, defection seems to be a good strategy to apply sparingly so long as...
+	- The price for defecting is low
+	- The chance of success in defecting is high
+	- It is likely that the opposition is irrational when responding to your strategy
+		- Emotional responses, political grandstanding, etc. Not calculated responses like what would be done in the military.
+
+- Scattered thoughts
+	- My ideal scenario for an assassination with a low likelihood of retribution is:
+		- The assassin must be acting alone. No conspiracy. No organizational involvement.
+			- The craziest of people will still believe in a conspiracy.
+			- There is reason to believe that, in our hyper-polarized and increasingly ostracized social spheres, a non-negligible people will believe this regardless of the evidence.
+			- This is difficult because it drastically lowers the chance of an assassin arising, and it also drastically lowers the success rate due to a lack of support.
+		- The assassin's motive must be:
+			- Obvious and incapable of being spun by the media. The UHC CEO's assassin was successful here with his bullet casing etchings
+			- Personal. Cannot be tied to any ideology or cause that will take credit for the attack. This aids in preventing spin because the media cannot make a boogeyman out of an organization or ideology
+		- The assassin should be mentally unwell.
+			- This is almost a guarantee if you're a lone gunman. The mental capacity it must take to convince oneself to commit premeditated murder implies not being well.
+			- This enables society to brush this off as an insane individual, encouraging people to think that this is just a one-off event
+			- This encourages the opposing party in the prisoner's dilemma from having a reason to defect in response.
+	- I am not sure if it is better if the assassin gets away, or expects to be killed in the process of the assassination.
+		- On the one hand, getting away enables copycats. Bad.
+		- On the other hand, getting killed encourages people to die for a cause. Bad. This is why Islamic extremism in the Middle East is such a quagmire.
+		- Maybe getting caught and standing trial is the best bet. But this is the least likely bet as people tend to get shot by law enforcement when they're actively killing others (understandably so).
+	- This post is going to look like I'm advocating for political violence. I am not.
+		- Problem: How the heck do I say that I'm not advocating for political violence when my argument is that political violence is sometimes justified?
+		- I want to live in a world where political institutions are capable of solving the world's problems and that people do not need to turn to violence in order to solve problems. This is increasingly not becoming the case.

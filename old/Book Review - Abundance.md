@@ -1,0 +1,25 @@
+---
+title: Book Review - Abundance
+subtitle: A sermon for the choir, while the sinners stayed home.
+date started: 2025-03-23
+date finished: 2025-03-23
+tags:
+  - blog/post
+  - blog/bookReview
+source: https://seanmcloughl.in/book-review-abundance/
+---
+### A sermon to the choir, while the sinners stayed home.
+
+[*Abundance* by Ezra Klein and Derek Thompson](https://en.wikipedia.org/wiki/Abundance_(Klein_and_Thompson_book)) recently came out and the blogosphere that I tend to inhabit has had nothing but praise for it. My wait for it on [Libby](https://libbyapp.com/) has simply been listed as a "several weeks wait" with no explicit time line due to the high demand for it. Thankfully, Spotify Premium comes with it as an audiobook, so I've been listening to it over the past few days during chores and exercise.
+
+As stated in the text, the book is meant to convince already left-leaning people to subscribe to a political policy of abundance and supply increase. I will state that, before reading this book, I already agreed with all of these things. I think that industrial policy is something that the federal government ought to work towards, I think that focusing on growth instead of de-growth is a more realistic and better long-term solution to society's problems, etc. In that sense, this book was largely an exercise in preaching to the choir for me. So I don't think it was a book meant for me. That doesn't mean the book was bad, though.
+
+I think I should put myself in the shoes of other left-leaning people in order to understand if this book wins hearts and minds. If I were a contemporary progressive living in a blue city who thinks that the status quo ought to continue, what would I think of this book? Unfortunately, I don't think that this book would convince me to change my beliefs.
+
+Much of the argumentation in this book is an appeal to history, stating that we need to repeat the "good parts" and avoid the "bad parts." For example, it was good that the US was capable of building so much under the New Deal. It was good that Operation Warp Speed was successful. It was bad that the NIH stifled Karako with regards to grant money for studying mRNA, even though mRNA research ultimately lead to COVID vaccines. The Reagan Administration was, overall, bad. etc. The problem I have with this analysis is that the authors have to argue why their good things are good and why their bad things are bad. This book mostly did this through story telling of scientific and technological progress, creating a narrative about outcomes instead of processes. But what the authors did *not* do was explain why readers should care about *their* good things instead of *your* good things. For example, why should a reader who is politically engaged only due to IdPol care about policies affecting housing? Or scientific progress?
+
+Another criticism that I have with the book is that it largely overlooks actual policy ideas. Again, this was stated in the book as they didn't want to tie themselves to any specific policy implementation, but it frustrated me because the devil is in the details when it comes to getting things done. For example, a care a lot about making housing cheap and affordable, but I also think that urban sprawl is incredibly bad for society. You could remote urban growth boundaries of different cities to build massive amounts of housing, but it would have a lot of other negative effects. So what is a policy that lets us get the best of both worlds – urban development that minimizes the requirements for car ownership without breaking the bank due to land value being higher in already built-up areas? If our goal is to simply build as much as we can while minimizing regulation, then UGBs sound like they should be thrown out the window. We're just trading one problem (high housing costs) for another (increased sprawl and car dependence). This book did not reconcile this problem, and I'm sure there are many other problems that would arise if you simply take the perspective of "build things, externalities be damned."
+
+Overall, I think that this book is a step in the right direction for defining a politics that could define the late 2020s to early 2030s for the left-of-center. I think that it is better than contemporary left-of-center politics, both from the perspective of the outcomes that I think it'd lead to, along with its incessant positivity leading to a much more mentally-healthy public. But I worry that those who need to understand this message the most in positions of power – the Democratic Party establishment at the federal level, and the Progressive movement in blue states and cities – will not. My main hope is that this book acts as another piece of momentum to bring to these two groups in order to enact more meaningful political change.
+
+If you already agree with much of what Ezra and Derek write about, this book will be like you're the choir being preached to. But if you're anyone else, I'm not sure this book will convince you of anything – you're the sinner who stayed home on Sunday.
