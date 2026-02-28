@@ -13,15 +13,14 @@ Design Verification Engineer at [Tenstorrent](https://tenstorrent.com), working 
 
 ### Current
 
-- Playing a lot of chess.
 - Training for [Michigan's Coast to Coast Gravel Grinder](https://micoasttocoast.com)
 
 ## Reading
 
 ### Current
 
+- The Monster of Florence (Douglas Preston and Mario Spezi)
 - The City & The City (China Miéville)
-- Inheritance (Christopher Paolini)
 
 ### Recently Finished
 
